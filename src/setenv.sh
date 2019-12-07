@@ -1,8 +1,8 @@
-export GITACCOUNT=
+export GITACCOUNT=gaosong
 
-export MYCLUSTER=
+export MYCLUSTER=tektonknativebeijing27
 export KUBECONFIG=
 
 export NAMESPACE=
-export EMAIL=
+export EMAIL=1005678398@qq.com
 export INGRESS=
